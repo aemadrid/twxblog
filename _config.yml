@@ -10,7 +10,10 @@ header:
 footer:
   content: '&copy; All rights reserved.'
   has_social: true
-  links: []
+  links:
+    - new_window: true
+      text: Example
+      url: 'http://example.com'
 sass:
   indentWidth: 4
   precision: 10
