@@ -2,7 +2,7 @@ title: Stackbit Ampersand Theme
 baseurl: /
 permalink: '/:title/'
 layout_style: grid
-palette: green
+palette: blue
 header:
   has_nav: true
   logo_img: images/logo.png
