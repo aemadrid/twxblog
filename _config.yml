@@ -12,6 +12,9 @@ footer:
   has_social: true
   links:
     - new_window: true
+      text: Another
+      url: 'http://another.com'
+    - new_window: true
       text: Example
       url: 'http://example.com'
 sass:
