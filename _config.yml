@@ -1,8 +1,8 @@
 title: TWX Blog
 baseurl: /
 permalink: '/:title/'
-layout_style: list
-palette: blue
+layout_style: grid
+palette: black
 header:
   has_nav: true
   logo_img: images/logo.png
