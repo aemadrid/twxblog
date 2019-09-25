@@ -1,5 +1,0 @@
-main:
-  - identifier: hello
-    title: Hello Link
-    url: 'http://helloc.om'
-    weight: 1
