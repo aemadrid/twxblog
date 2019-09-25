@@ -1,12 +1,12 @@
-title: Stackbit Ampersand Theme
+title: TWX Blog
 baseurl: /
 permalink: '/:title/'
-layout_style: grid
+layout_style: list
 palette: blue
 header:
   has_nav: true
   logo_img: images/logo.png
-  title: Ampersand
+  title: TWX Title
 footer:
   content: '&copy; All rights reserved.'
   has_social: true
