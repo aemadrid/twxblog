@@ -4,7 +4,7 @@ permalink: '/:title/'
 layout_style: grid
 palette: green
 header:
-  has_nav: true
+  has_nav: false
   logo_img: images/logo.png
   title: TWX Title
 footer:
